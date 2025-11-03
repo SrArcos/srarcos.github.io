@@ -1,0 +1,13 @@
+# Archivo: https://xvp.github.io/.well-known/stellar.toml
+
+NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
+VERSION="2.0.0"
+
+[[CURRENCIES]]
+code="XVP"
+issuer="GA5DKBP7Y23UVV7IE2ZX5RCCNI7BDOQQTKSFHKCXMIR7H2UEWA4KP7DG"
+display_decimals=12
+name="VipCoin"
+desc="Token para pagos en tiempo real para las plataformas Vipnet360 con suministro fijo de 21 millones y 7 decimales."
+conditions="Emisión única, bloqueada tras distribución inicial"
+image="https://xvp.github.io/icon.png"
