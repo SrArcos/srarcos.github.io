@@ -14,12 +14,10 @@ DOCUMENTATION = [
 code="XVP"
 issuer="GA5DKBP7Y23UVV7IE2ZX5RCCNI7BDOQQTKSFHKCXMIR7H2UEWA4KP7DG"
 display_decimals=7
-# name="VipCoin"
-# desc="Token para pagos en tiempo real para las plataformas Vipnet360 con suministro fijo de 21 millones y 7 decimales."
 name="Xenith Vault Protocol"
 desc="Token de utilidad para el ecosistema Xenith Vault en Stellar."
 conditions="Suministro fijo de 21,000,000 XVP."
-image="https://srarcos.github.io/.well-known/xvp_icon.png"
+image="https://srarcos.github.io/.well-known/xvp_icon.svg"
 anchor_asset_type="crypto"
 
 [[CURRENCIES]]
