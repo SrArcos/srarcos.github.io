@@ -20,12 +20,3 @@ conditions="Suministro fijo de 21,000,000 XVP."
 image="https://srarcos.github.io/.well-known/xvp_icon.svg"
 anchor_asset_type="crypto"
 
-[[CURRENCIES]]
-code="AIBR"
-issuer="GA5DKBP7Y23UVV7IE2ZX5RCCNI7BDOQQTKSFHKCXMIR7H2UEWA4KP7DG"
-display_decimals=7
-name="AI Brand Pulse"
-desc="Token de análisis y reputación de marca impulsado por inteligencia artificial."
-conditions="Activos emitidos por la cuenta oficial de AI Brand Pulse."
-image="https://srarcos.github.io/.well-known/aibr_icon.svg"
-anchor_asset_type="crypto"
