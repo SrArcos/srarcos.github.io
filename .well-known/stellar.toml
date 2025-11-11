@@ -4,7 +4,7 @@ VERSION="2.0.0"
 # Información general del emisor o del proyecto
 DOCUMENTATION = [
   {
-	organization_name = "Sr Arcos Labs", 
+    organization_name = "Sr Arcos Labs", 
     organization_url = "https://srarcos.github.io", 
     description = "Activos oficiales emitidos por Sr Arcos Labs en la red Stellar." 
   }
