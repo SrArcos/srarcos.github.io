@@ -1,9 +1,6 @@
-﻿NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
+﻿NETWORK_PASSPHRASE="Public Global Stellar Network; September 2015"
 VERSION="2.0.0"
-
-# Información general del emisor o del proyecto
 DOCUMENTATION=[{organization_name="Sr Arcos Labs",organization_url="https://srarcos.github.io",description="Activos oficiales emitidos por Sr Arcos Labs en la red Stellar."}]
-
 [[CURRENCIES]]
 code="XVP"
 issuer="GA5DKBP7Y23UVV7IE2ZX5RCCNI7BDOQQTKSFHKCXMIR7H2UEWA4KP7DG"
